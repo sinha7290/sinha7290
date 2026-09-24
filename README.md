@@ -44,7 +44,6 @@ I am a computational and systems biologist working at the intersection of **netw
 | **COMPASS** | Composite activity scoring for deterministic digital biomarkers, delivered as a browser based platform | [COMPASSprep](https://github.com/sasinha7290/COMPASSprep) · [GEO2COMPASS](https://github.com/sasinha7290/GEO2COMPASS) |
 | **SMaRT** | Boolean to continuum model of macrophage reactivity and tolerance, validated across >12,500 transcriptomic profiles · *eBioMedicine* 2023, *JCI* 2025 | see publications |
 | **F.O.R.W.A.R.D** | Network based therapeutic target prioritization across multi omic datasets | *patent pending — code not public* |
-| **PICASSO** | Human first framework anchoring federally mandated New Approach Methodologies | preprint |
 | **AXIOM Bio** | Foundational Boolean logic model of cellular decision making and disease · *Trends Open*, Cell Press 2026 | in press |
 
 ### Selected publications
